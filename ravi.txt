@@ -1,0 +1,4 @@
+build and sell software
+git config --global user.email "vipuldogra3@gmail.com"
+git config --global user.name "vipuldogra29"
+
